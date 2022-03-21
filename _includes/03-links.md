@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+This is my repository: [github.com/sailesh658/github-slideshow](https://github.com/sailesh658/github-slideshow)
